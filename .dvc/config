@@ -1,0 +1,4 @@
+[core]
+    remote = remotestorage
+['remote "remotestorage"']
+    url = H:\DATA\MY\MLOPS\DVC\practice-1\remoteStorage
